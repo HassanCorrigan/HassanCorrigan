@@ -1,7 +1,7 @@
 ### Hi there, I'm Hassan 👋
 
-- 👨‍💻  I’m currently working on rebuilding my personal website.
-- 📚 Right now learning React and Gatsby.
+- 👨‍💻  I’m currently working on a link shortening service.
+- 📚 Right now learning React and NextJS.
 - 🔮 I plan on learning Typescript next.
 - 👨‍🎓 I have an HDip in Web Technologies and an MSc in Cybersecurity.
 - 🎧 I'm a hobbyist DJ.
