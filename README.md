@@ -1,6 +1,6 @@
 ### Hi there, I'm Hassan 👋
 
-- 👨‍💻  I’m currently working on a link shortening service.
+- 👨‍💻  I’m currently working on a movie and tv show tracker with Trakt.tv integration.
 - 📚 Right now learning React and NextJS.
 - 🔮 I plan on learning Typescript next.
 - 👨‍🎓 I have an HDip in Web Technologies and an MSc in Cybersecurity.
