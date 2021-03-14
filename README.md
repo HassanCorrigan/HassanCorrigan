@@ -1,7 +1,7 @@
 ### Hi there, I'm Hassan 👋
 
 - 👨‍💻  I’m currently working on a DJ profile app.
-- 📚 Right now learning Vue.
+- 📚 Right now i'm learning Vue.js.
 - 🔮 I plan on learning more about Typescript next.
 - 👨‍🎓 I have an HDip in Web Technologies and an MSc in Cybersecurity.
 - 🎧 I'm a hobbyist DJ.
